@@ -1,2 +1,3 @@
-# taller_html_css
-Taller 27/03 HTML+CSS
+Taller HTML + CSS
+=======
+Francisco Sanhueza
